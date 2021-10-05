@@ -1,7 +1,21 @@
-# ArduBreakout
+## **ArduBreakout**
 
-Brick breaking game in the vein of Atari's *Breakout*.
+This project has been developed by [Arduboy][1] and forked directly from [Arduboy][2].
 
-Control the paddle with the directional keys to keep a ball bouncing against a brick wall until all of the bricks are broken.
+You can read the original README file from [here][3].
 
-High scores are saved to EEPROM and can be saved through Arduboy restarts.
+You can download the .hex file of this project **compiled for watchX** from [here][4].
+
+There is no original README file released by the developer.
+
+## **License**
+
+This project has been released under the MIT License by it's developer.
+
+The full document can be found in the [LICENSE][5] file.
+
+[1]: https://github.com/Arduboy
+[2]: https://github.com/Arduboy/Arduboy
+[3]: Orijinal-Readme
+[4]: watchX-Hex
+[5]: Lisans
